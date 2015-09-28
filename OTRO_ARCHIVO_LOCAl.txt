@@ -1,0 +1,1 @@
+este es el commit D (local) para luego fusionar con commit Z SIMULA_OTRO.txt (commit Z) en github
